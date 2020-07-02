@@ -1,4 +1,4 @@
 title: Jekyll Bootstrap
 sass:
-  sass_dir: ./css
+  sass_dir: jbm/css
   style:    compressed
